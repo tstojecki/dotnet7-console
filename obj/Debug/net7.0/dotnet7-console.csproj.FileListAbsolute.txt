@@ -1,0 +1,15 @@
+C:\Users\tstoj\code\dotnet7-console\bin\Debug\net7.0\dotnet7-console.exe
+C:\Users\tstoj\code\dotnet7-console\bin\Debug\net7.0\dotnet7-console.deps.json
+C:\Users\tstoj\code\dotnet7-console\bin\Debug\net7.0\dotnet7-console.runtimeconfig.json
+C:\Users\tstoj\code\dotnet7-console\bin\Debug\net7.0\dotnet7-console.dll
+C:\Users\tstoj\code\dotnet7-console\bin\Debug\net7.0\dotnet7-console.pdb
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.csproj.AssemblyReference.cache
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.AssemblyInfoInputs.cache
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.AssemblyInfo.cs
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.csproj.CoreCompileInputs.cache
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.dll
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\refint\dotnet7-console.dll
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.pdb
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\dotnet7-console.genruntimeconfig.cache
+C:\Users\tstoj\code\dotnet7-console\obj\Debug\net7.0\ref\dotnet7-console.dll
